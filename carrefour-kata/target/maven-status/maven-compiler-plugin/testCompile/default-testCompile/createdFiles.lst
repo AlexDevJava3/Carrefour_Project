@@ -1,0 +1,5 @@
+com\carrefour\carrefour_kata\service\OrderServiceTest.class
+com\carrefour\carrefour_kata\CarrefourKataApplicationTests.class
+com\carrefour\carrefour_kata\controller\RefundControllerIntegrationTest.class
+com\carrefour\carrefour_kata\service\RefundServiceTest.class
+com\carrefour\carrefour_kata\controller\OrderControllerIntegrationTest.class

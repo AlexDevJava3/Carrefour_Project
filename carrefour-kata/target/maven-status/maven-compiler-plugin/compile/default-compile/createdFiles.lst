@@ -1,0 +1,13 @@
+com\carrefour\carrefour_kata\model\Order.class
+com\carrefour\carrefour_kata\model\RefundRequest.class
+com\carrefour\carrefour_kata\service\OrderServiceImpl.class
+com\carrefour\carrefour_kata\model\Product.class
+com\carrefour\carrefour_kata\service\OrderService.class
+com\carrefour\carrefour_kata\controller\OrderController.class
+com\carrefour\carrefour_kata\repository\OrderRepository.class
+com\carrefour\carrefour_kata\repository\RefundRequestRepository.class
+com\carrefour\carrefour_kata\CarrefourKataApplication.class
+com\carrefour\carrefour_kata\service\RefundServiceImpl.class
+com\carrefour\carrefour_kata\controller\RefundController.class
+com\carrefour\carrefour_kata\service\RefundService.class
+com\carrefour\carrefour_kata\repository\ProductRepository.class
