@@ -15,7 +15,7 @@ Ce projet est une kata Java implémentant une API RESTful pour gérer les comman
 Clonez le dépôt :
 
 ```bash
-git clone https://github.com/votre-repo/carrefour-kata.git
+git clone https://github.com/AlexDevJava3/Carrefour_Project.git
 cd carrefour-kata
 ```
 
